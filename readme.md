@@ -10,7 +10,7 @@
 
 MPA SAP 예제들을 실습
 
-<https://github.com/JHJH1289/Web_Programming/0306>
+<https://github.com/JHJH1289/Web_Programming/0306/>
 
 ---
 
