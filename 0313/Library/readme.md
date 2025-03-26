@@ -4,4 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/bf742696-c99f-4819-bebe-3b8f374d46d7)
 
+---
+
+실행화면
+
 ![image](https://github.com/user-attachments/assets/ca4fba6b-60ed-4ab9-bd10-023466276666)
