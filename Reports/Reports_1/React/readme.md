@@ -2,4 +2,4 @@
 
 실행화면
 
-body를 jsx파일로 작성하여 app.js 입력함
+body를 jsx파일로 작성하여 app.js 에 import
