@@ -1,0 +1,134 @@
+.schedule-container {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.form-section {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  background-color: #fafafa;
+}
+
+.input,
+.select {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.song-add {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.selected-songs {
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 20px;
+}
+
+.day-row, .time-row {
+  display: flex;
+}
+
+.header-cell, .time-cell, .checkbox-cell {
+  border: 1px solid #ccc;
+  padding: 6px;
+  text-align: center;
+  width: 60px;
+  box-sizing: border-box;
+}
+
+.time-cell.header-cell {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+.checkbox-cell input {
+  transform: scale(1.2);
+}
+
+
+.day-column {
+  background-color: #f5f5f5;
+  padding: 0.5rem;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.checkbox-label {
+  display: block;
+  margin: 0.25rem 0;
+  font-size: 0.85rem;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.button.blue {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.button.green {
+  background-color: #10b981;
+  color: white;
+}
+
+.button.large {
+  font-size: 1.1rem;
+  padding: 0.75rem 2rem;
+}
+
+.button-center {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.result-section {
+  padding: 1rem;
+  background-color: #fefefe;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.result-box {
+  background: #f0f0f0;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  border-radius: 6px;
+}
+.grid-center {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
