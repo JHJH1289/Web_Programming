@@ -65,6 +65,3 @@ HTML, CSS, JavaScript, React 등을 사용하여 다양한 실습을 진행했�
 - JSX / 컴포넌트 기반 개발
 - Git & GitHub 협업 및 기록
 
----
-
-> 📌 꾸준한 실습과 반복이 최고의 교재입니다!
